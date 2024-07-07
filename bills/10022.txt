@@ -1,0 +1,23 @@
+ *************************  Sarkar Kirana  **************************
+Addr : Sarkar Kirana, Raza tawar, Bhusawal                                              Phone : 8080560080
+----------------------------------------------------------------------------------------------------
+Cust Name : MAS							 Bill No.: 10022
+Mobile : 2233112233							 Date : 30,10,23
+User : Shoeb							 Time : 21:21:09
+----------------------------------------------------------------------------------------------------
+Product Name			|	QTY		|	 MRP 
+
+Bath Soap			|	  02		|	   30
+Rice			|	  02		|	   38
+Maaza			|	  02		|	   100
+==================================================================
+Total Price :			|	  6		|	   320.00
+Cosmetic Tax:		14.40
+Grocery Tax:		28.80
+ColdDrinks Tax:		14.40
+
+Total Price + GST = 		  377.60
+
+ ********MAS Ji Saman Leke Wapis Nahi Aana  ********
+
+

@@ -1,0 +1,26 @@
+ *************************  Sarkar Kirana **************************
+Addr : Sarkar Kirana, Raza tawar, Bhusawal                                              Phone : 8080560080
+----------------------------------------------------------------------------------------------------
+Cust Name : ZAID							 Bill No.: 10107
+Mobile : 7378517681							 Date : 17,05,24
+User : Shoeb							 Time : 17:19:46
+----------------------------------------------------------------------------------------------------
+Product Name			|	QTY		|	 MRP 
+
+Bath Soap			|	  1		|	   15
+Hair Gell			|	  2		|	   20
+Moong Daal			|	  2		|	   220
+Rice			|	  5		|	   95
+Water			|	  2		|	   20
+Maaza			|	  1		|	   50
+==================================================================
+Total Price :			|	  13		|	   660.00
+Cosmetic Tax:		10.80
+Grocery Tax:		86.40
+ColdDrinks Tax:		21.60
+
+Total Price + GST = 		  778.80
+
+ ********ZAID Ji Saman Leke Wapis Nahi Aana ********
+
+

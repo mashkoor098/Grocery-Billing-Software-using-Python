@@ -1,0 +1,35 @@
+ *************************  Sarkar Kirana  **************************
+Addr : Sarkar Kirana, Raza tawar, Bhusawal                                              Phone : 8080560080
+----------------------------------------------------------------------------------------------------
+Cust Name : ROHIT							 Bill No.: 51048
+Mobile : 1212121212							 Date : 01,11,23
+User : Shoeb							 Time : 09:40:16
+----------------------------------------------------------------------------------------------------
+Product Name			|	QTY		|	 MRP 
+
+Bath Soap			|	  032		|	   480
+Face Cream			|	  032		|	   1088
+Hair Gell			|	  032		|	   320
+Body Lotion			|	  02		|	   106
+Moong Daal			|	  023		|	   2530
+Mat Daal			|	  02		|	   160
+Soya Oil			|	  02		|	   300
+Wheat			|	  023		|	   736
+Tuwar Dal			|	  032		|	   2880
+Rice			|	  023		|	   437
+Cocacola			|	  02		|	   60
+Water			|	  02		|	   20
+Sting			|	  02		|	   30
+Sprite			|	  03		|	   30
+Maaza			|	  02		|	   100
+==================================================================
+Total Price :			|	  214		|	   6910.00
+Cosmetic Tax:		473.40
+Grocery Tax:		691.20
+ColdDrinks Tax:		79.20
+
+Total Price + GST = 		  8153.80
+
+ ********ROHIT Ji Saman Leke Wapis Nahi Aana  ********
+
+
